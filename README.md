@@ -5,11 +5,7 @@ Archive containing builds of GoldSrc+Source, credits provided.
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 3213 | halflife engine.gcf | oofer_dww | Aug 11, 2005 | v47 |
-| 3219 | halflife engine.7z | oofer_dww | Aug 17, 2005 | v47 |
-| 3248 | halflife engine.7z | oofer_dww | Sep 15, 2005 | v47 |
-| 3266 | halflife engine.7z | oofer_dww | Oct 3, 2005 | v47 |
 | 3647 | half-life engine.7z | oofer_dww | Oct 19, 2006 | v47 |
-| 4554(4617) | half-life engine.7z | oofer_dww | Jun 15, 2009 | v48 |
 
 ## Source Builds
 | Build | Filename | Credit | Date | Protocol |
