@@ -36,6 +36,7 @@ Archive containing builds of GoldSrc+Source, credits provided.
 | 2803 | base source engine 2.7z | oofer_dww | Jul 11, 2006 | v7 |
 | 2873 | base source engine 2.7z | oofer_dww | Sep 19, 2006 | v7 |
 | 2949 | base source engine 2.7z | oofer_dww | Dec 4, 2006 | v7 |
+| 3048 | base source engine 2.7z | oofer_dww | Mar 13, 2007 | v7 |
 | 3224 | base source engine 2.7z | oofer_dww | Sep 5, 2007 | v7 |
 | 3264 | base source engine 2.gcf | oofer_dww | Oct 15, 2007 | v7 |
 | 3945 | base source engine 2.gcf | oofer_dww | Aug 26, 2009 | v7 |
