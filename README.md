@@ -32,7 +32,7 @@ Archive containing builds of GoldSrc+Source, credits provided.
 | 2602 (64-Bit) | source engine 64-bit.gcf | oofer_dww | Dec 22, 2005 | v7 |
 | 2707 | source engine.gcf | oofer_dww | Apr 6, 2006 | v7 |
 | 2733 | base source engine 2.7z | oofer_dww | May 2, 2006 | v7 |
-| 2761 | base source engine 2.7z | oofer_dww | May 30, 2006 | v6 |
+| 2761 | base source engine 2.7z | oofer_dww | May 30, 2006 | v7 |
 | 2803 | base source engine 2.7z | oofer_dww | Jul 11, 2006 | v7 |
 | 2873 | base source engine 2.7z | oofer_dww | Sep 19, 2006 | v7 |
 | 2949 | base source engine 2.7z | oofer_dww | Dec 4, 2006 | v7 |
